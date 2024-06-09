@@ -1,0 +1,152 @@
+====================================================================================================================
+Europe Trip2 2002 - Log Book Transcript
+====================================================================================================================
+--------------------------------------------------------------------------------------------------------------------
+Date			Day	City			KM	CumKM	Note
+--------------------------------------------------------------------------------------------------------------------
+Feb 16,17		0	Madras			19	19	Palace Lodge
+Feb 18,19		3	Mahabalipuram		57	76	UMA Tourist Lodge
+Feb 20,21		5	Puducherry		103	179	Amala	Lodge
+Feb 22			7	Chidambaram		73	252	Star Lodging
+Feb 23,24		8	Madurai			0	252	Hotel International
+Feb 25,26		10	Coimbatore		0	252	Hotel Blue Star
+Feb 27,28		12	Coonoor			52	304	YWCA Wyoming
+March 1			14	Ooty			0	304	YWCA
+March 2,3		15	Bangalore		56	360	Sri Ramakrishan Lodge
+March 4,5		17	Delhi			10	370	Royal Guest House
+March 6,7		19	Damascus, Syria		0	370	Al Haramain Hotel
+March 8			20	Palmyra			0	370	New Afga Hotel
+March 9			21	Holms			0	370	Hotel Khayyam
+March 10,11		22	Krak des Chevaliers	49	419	Round Table Hotel
+March 12		24	Ain Halakim		30	449	Convent
+March 13,14		25	Masyaf			14	463	Said Said's home
+March 15		26	Apamea			58	521	Free Camp
+March 16,17,18		27	Aleppo			53	574	Hotel al-Jawaher
+March 19		30	Kilis, Turkey		69	643	Istanbul Hotel
+March 20		31	Kahramanmaras		0	643	Hotel Kazanci
+March 21		32	Goksun			75	718	Hotel Marua
+March 22		33	Andırın			85	803	Free Camp
+March 23,24		34	Kadirli			41	844	Hotel Andırın
+March 25		36	Adana			99	943	Hotel Garajlor
+March 26,27		37	Erdemli			109	1052	Abat Pansiyon
+March 28,29		39	Silifke			48	1100	Hotel Umal
+March 30		40	Mut			76	1176	Hotel Koseoglu
+March 31, April 1	41	Ermenek			89	1265	Hotel Yildiz
+April 2,3,4		42	Anamur			74	1339	Saray Hotel
+April 5,6		45	Alanya			131	1470	Cinar Hotel, Ergun Hotel
+April 7			47	Side			70	1540	Yildiz Pension
+April 8,9,10		48	Antalya			80	1620	Erkal Pension
+April 11		51	Finike			119	1739	Harmony Pension
+April 12		52	Kalkan			104	1843	Celic Pansyon
+April 13		53	Ortaca			130	1973	Ortaca Hotel
+April 14		54	Marmaris		82	2055	Karaasaln Hotel
+April 15		55	Rhodes, Greece		0	2055	Youth Hostel
+April 16		56	Rhodes-Athens Ferry	0	2055	Ferry Cabin
+April 17		57	Kato Almiri		37	2092	Birrali Camping
+April 18		58	Epidauros		50	2140	Free Camp
+April 19		59	Ligourio		19	2159	Hotel Koronis
+April 20		60	Astros			67	2226	Free Camp
+April 21		61	Peleta			72	2298	Free Camp
+April 22		62	Molai			64	2362	Free Camp
+April 23,24		63	Githio			41	2403	Xenia Domatin
+April 25		65	Kokkinogia		68	3011	Free Camp
+April 26		66	Kalos			47	3058	Free Camp
+April 27		67	Kardamili		52	3110	Domatia
+April 28		68	Rizana			53	3163	Free Camp
+April 29		69	Longanikos		54	3217	Free Camp
+April 30		70	Levidi			70	3280	Anthony Domatia
+May 1-7			71 	Athens			112	3392	Traveler's Inn, Thigseus Inn
+May 8			78	Livadia			46	3438	Pension Bill
+May 9			79	Delphi			47	3485	Camping Apollon
+May 10			80	Itea			15	3500	Hotel Parnassos
+May 11			81	Eratini			40	3540	Hotel Minskel
+May 12			82	Ag. Nikolaos		11	3551	Camping Doric
+May 13			83	Platanitis		50	3601	Camping Plataritis
+May 14			84	Patra-Bari Ferry	15	3616	Ferry Cabin
+May 15			85	Messina, Italy		11	3627	Hotel Touring
+May 16			86	Letojanni		55	3682	Camping Paradise
+May 17			87	Catania			76	3758	Camping Touristico
+May 18,19		88	Siracusa		67	3825	Central Hotel
+May 20			90	Palazzolo Acreide	48	3873	La Torre Village
+May 21			91	Caltagirone		67	3940	Free Camp
+May 22			92	Pietraperzia		60	4000	Free Camp
+May 23			93	San Cataldo		36	4035	Comunity Canter
+May 24			94	Fontana-Murata		54	4089	Free Camp
+May 25			95	Alia			11	4100	Pension
+May 26			96	Palarmo			87	4187	Albergo Rosalia
+May 27,28		97	Palarmo			25	4212	Camping Trinacria
+May 29			99	Palarmo-Napoli Ferry	19	4231	Ferry Cabin
+May 30			100	Napoli			19	4240	Camping Volcano Solfatara
+June 1			101	Cassino			106	4346	Terme Varroniane
+June 2			102	Veroli			65	4411	Free Camp
+June 3			103	Fiuggi			45	4456	Camping Fiuggi
+June 4-8		104	Rome			101	4557	Flaminio Village Camping
+June 9			108	Fiano Romano		34	4591	I Pini Camping
+June 10			109	Narni			67	4658	Camping Monte del Sole
+June 11			110	Bevagna			77	4735	Camping Pian di Buccio
+June 12			111	Assisi			33	4768	Camping Fontemaggio
+June 13			112	Perigia			46	4814	Il Roco
+June 14,15		113	Foiano della Chiana	49	4863	Camping Pesce Daro
+June 16			115	Siena			94	4957	Camping Colleverde
+June 17,18		116	Firenze			71	5028	Camping Michelangello
+June 19,20		118	Mongidoro		82	5110	Camping La Martina
+June 21			120	Modena			111	5221	Caravan Camping Club
+June 22			121	Cremona			117	5338	Parco Alpo
+June 23-25		122	Milano			106	5444	Milano City Camp
+June 26,27		125	Omegna			101	5545	Agip Camping
+June 28			127	Brig, Switzerland	100	5645	Tropic Camping
+June 29			128	Ulrichen		42	5687	Camping Nufener
+June 30			129	Innertkirchen		46	5733	Camping Strapfen
+July 1,2		130	Wolhusen		76	5809	Hotel Bad
+July 3			132	Holstein		76	5885	Camping Holstein
+July 4			133	Bendorf, France		58	8943	Camping Les Hetres
+July 5			134	Cernay			59	6002	Camping Les Acacias
+July 6			135	Obermorschwiller	44	6046	Farm Laurent
+July 7			136	Barr			66	6112	Church St. Martin
+July 8			137	Lutzelbourg		69	6181	Camping Plan Incline
+July 9,10		138	Saint-Avold		84	6265	Camping le Felsberg
+July 11			140	Alzingen, Luxembourg	89	6354	Camping Bon Accueil
+July 12			141	Septfontaines		32	6386	Camping Simmershmelz
+July 13			142	Houffalize, Belgium	76	6462	Camping Chasseet Peche
+July 14,15		143	La Roche-en-Ardenne	26	6488	Christophe-Simon Pension
+July 16			145	Tongren			111	6599	Camping Pliniusbron
+July 17			146	Bergeijk, Netherlands	89	6688	Camping D'n Buytelaer
+July 18			147	Biezenmortel		64	6752	Camp
+July 19			148	Bruggen, Germany	111	6863	Camping Dilborner Muhle
+July 20			149	Sturzelberg		78	6941	Camping Strandstrasse
+July 21			150	Kiel			34	6985	Youth Hostel
+July 22			151	Oslo Ferry		0	6985	Ferry Cabin
+July 23			152	Oslo, Norway		0	6985	Ekeberg Camping
+July 24			153	Oslo-Bodo Train		0	6985	Train Cabin
+July 25,26		154	Bodo			0	6985	Bodosjoen Camping
+July 27			156	Misvaer			72	7057	Misvaer Camping
+July 28			157	Lonsstua		79	7136	Free Camp
+July 29			158	Krokstranda		42	7178	Krokstranda Camping
+July 30			159	Maela			96	7274	Mini-Camp
+July 31,Aug 1		160	Sandnessjoen		77	7351	Stein Camping
+Aug 2			162	Holm			105	7456	Holm Camping
+Aug 3			163	Flatt			88	7544	Flatt Camping
+Aug 4			164	Namdalseid		102	7646	Free Camp
+Aug 5			165	Rissa			102	7748	Rissa Camping
+Aug 6			166	Otta			31	7779	Otta Camping
+Aug 7			167	Boverdalen		86	7865	Lermoen Camping
+Aug 8			168	Sygnefjell		38	7903	Free Camp
+Aug 9,10		169	Skjolden		36	7939	Camping Bolstad
+Aug 11			171	Sogndal			53	7992	Stedje Camping
+Aug 12			172	Bregen			0	7992	Paradis Camping
+Aug 13,14,15		173	Lerwick, Shetland, UK	0	7992	Lerwick Camping
+Aug 16,17		176	Kirkwall, Orkney, UK	0	7992	Kirkwall Camping
+Aug 18			178	Thurso			67	8059	Scrabster Rd Caravan Park
+Aug 19			179	Inverness		0	8059	?
+Aug 20,21		180	Dalston			8	8067	Dalston Hall Camping
+Aug 22			182	Patterdale		51	8118	Side Farm Camp
+Aug 23			183	Sedbergh		58	8176	Holme Farm Camp
+Aug 24			184	Ingleton		29	8205	S Farm Camp
+Aug 25			185	Heptonstall Moor	70	8275	High Greenwood House
+Aug 26,27		186	Furness Vale		32	8307	Ringstones Caravan Park
+Aug 28			188	Longnor			29	8336	Longnor Wood Caravan Park
+Aug 29			189	Trentham		59	8395	Trentham Gardens
+Aug 30			190	Barton-under-Needwood	34	8429	Pub 'The Cottage'
+Aug 31			191	Broadway		24	8453	Hayway Farm
+Sept 1			192	Birdlip			46	8499	Farm
+Sept 2			193	Lacock			67	8566	Piccadilly Caravan Park
